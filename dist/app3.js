@@ -10,3 +10,4 @@ var Veiculo = /** @class */ (function () {
 }());
 var camaro = new Veiculo('Camaro');
 console.log(camaro.getTitulo());
+// Other comments
